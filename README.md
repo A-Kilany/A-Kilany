@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Ahmed 👋 I'm a BI Analyst, Entrepreneur, and Data Science graduate!
 I'm currently working on Business Intelligence and Data Science<br>I'm looking to collaborate on ML, automation or any data-related projects<br>I'm currently learning AWS advanced features and Tableau<br>Ask me about Power BI automation<br>Fun Fact - I'm 24 and have lived in 4 countries across 3 continents for each quarter of my life!
 
 
